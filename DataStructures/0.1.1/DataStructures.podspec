@@ -86,8 +86,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "DataStructures/Stack.swift", "DataStructures/Queue.swift", "DataStructures/BreadthFirstOrderGenerator.swift", "DataStructures/DepthFirstOrderGenerator.swift"
-
+  s.source_files  = "DataStructures/Stack.swift", "DataStructures/Queue.swift"
   # s.public_header_files = "Classes/**/*.h"
 
 
