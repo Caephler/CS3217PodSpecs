@@ -75,7 +75,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/cs3217-1819/2019-ps1-Caephler.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/cs3217-1819/2019-ps1-Caephler.git", :branch => "cocoapods" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
